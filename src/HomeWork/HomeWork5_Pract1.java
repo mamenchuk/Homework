@@ -23,7 +23,7 @@ public class HomeWork5_Pract1 {
 
 
         // ammount_of negative numbers
-        int c = 0;
+        int i = 0;
         for (arr[i] < 0) {
             neg_ammoun = i - arr[i];
             system.out.print.in("amount of negative numbers = " + neg_ammount)

@@ -6,7 +6,7 @@ public class ProductTest {
         Product product1 = new Product ("bread", 10, 100);
         Product product2 = new Product ("apple", 5, 200);
         Product product3 = new Product ("sugar", 15, 150);
-        Product product4 = new Product ("rice", 20, 150);
+        if (product1.)
 
         System.out.println("most expensive product ");
 
